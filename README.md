@@ -34,4 +34,4 @@ This project was intentionally built using core web technologies for maximum per
 
 ## 🌐 Live Deployment
 The Command Core is live and actively tracking our progress. 
-👉 **[Insert Your Vercel Link Here]**
+👉 **https://squad6-command-core.vercel.app/**
